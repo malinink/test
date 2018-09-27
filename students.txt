@@ -1,5 +1,5 @@
-Github students profile username
+Github students profile IDs
 ===================
 1 malinink
 2 morozzArt
-3 
+3
