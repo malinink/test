@@ -1,4 +1,4 @@
-github students profile username
+Github students profile IDs
 ===================
 1 malinink
 2 sashachernyshova
