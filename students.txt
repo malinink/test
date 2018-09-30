@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Github students profile username
-=======
-Github students profile IDs
->>>>>>> master
 ===================
 1 malinink
 2 ilyamazein
